@@ -14,7 +14,10 @@ setup(
         "seaborn",
         "matplotlib",
         "scipy",
-        "statsmodels",  # for stats if you use this module elsewhere
+        "statsmodels",  
+        "igraph",
+        "louvain", # for stats if you use this module elsewhere
+        
     ],
     python_requires='>=3.6',  # Specify your Python version requirement
 )
