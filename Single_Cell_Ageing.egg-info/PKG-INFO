@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Single-Cell-Ageing
+Version: 0.1
+Author: Hang
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scanpy
+Requires-Dist: scikit-learn
+Requires-Dist: tqdm
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: statsmodels
