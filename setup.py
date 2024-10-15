@@ -16,7 +16,9 @@ setup(
         "scipy",
         "statsmodels",  
         "igraph",
-        "louvain", # for stats if you use this module elsewhere
+        "louvain",
+        "sklearn",
+        # for stats if you use this module elsewhere
         
     ],
     python_requires='>=3.6',  # Specify your Python version requirement
